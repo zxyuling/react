@@ -1,0 +1,34 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "reactdemo\u001b[D\u001b[D\u001b[D\u001b[D ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxyuling/react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxyuling/react/issues"
+  },
+  "homepage": "https://github.com/zxyuling/react#readme",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "fis3-hook-npm": "^1.2.1",
+    "fis3-postpackager-loader": "^2.1.4",
+    "fis3-preprocessor-js-require-file": "^0.1.3",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-router": "^4.1.1",
+    "react-router-dom": "^4.1.1",
+    "webpack": "^2.6.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
